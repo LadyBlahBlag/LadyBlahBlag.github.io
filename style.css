@@ -1,0 +1,45 @@
+﻿html{
+    background-color: lightcoral;
+
+}
+
+
+h3{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: medium ;
+font-weight:lighter;
+text-align: center;
+}
+
+h4{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+
+body {
+    background-color: azure ;
+    width: 700px;
+    margin: 25px auto;
+    padding: 25px 100px;
+    border-radius: 25px;
+
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 2px;
+}
+
+button {
+    background-color: firebrick;
+    color: ghostwhite;
+    border-radius: 5px;
+}
+
+#Shark{
+    width: 150px;
+   
+}
+
+#Cola {
+    width: 100px;
+}
